@@ -24,5 +24,8 @@
     <ClCompile Include="Q1.c">
       <Filter>소스 파일\coding test</Filter>
     </ClCompile>
+    <ClCompile Include="Q2.c">
+      <Filter>소스 파일\coding test</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
